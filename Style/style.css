@@ -1,0 +1,130 @@
+body {
+  color: #40514e;
+  background-color: #fff;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+h1{
+  margin: 0;
+}
+.top-container{
+  background-color: #eaf9f5;
+  position: relative;
+  padding-top: 200px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: absolute;
+  right: 3rem;
+  top: 3rem;
+}
+.div1{
+  background-color: darkred;
+  width: 200px;
+  height: 200px;
+}
+.div2{
+  width: 200px;
+  height: 200px;
+  background-color: darkblue;
+}
+span{
+  color: blue;
+}
+
+
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px 0 100px 0;
+}
+
+.profile-picture{
+  width: 12.5rem;
+  border-radius: 100%;
+}
+h2{
+  color: rgb(30, 162, 167);
+}
+.dotted-lines{
+  color: grey;
+  font-size: 2rem;
+  margin-bottom: 4rem;
+}
+center{
+  margin-top: 3rem;
+}
+.intro{
+  width: 30%;
+}
+.my-skills2{
+  margin-top: 6rem;
+  text-align: left;
+  width: 50%;
+
+}
+h3{
+  color: rgb(30, 162, 167);
+}
+.skill-image{
+  width: 150px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.cold{
+  color: rgb(30, 162, 167);
+}
+.contact-me{
+  width: 40%;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.buttonClass {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#599bb3;
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  box-shadow: 0px 2px 14px -7px #276873;
+  text-shadow: 0px 1px 0px #3d768a;
+  background:linear-gradient(#599bb3, #408c99);
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#408c99, #599bb3);
+}
+.bottom-container{
+  margin-top: 5rem;
+  background-color: rgb(30, 162, 167);;
+  padding: 50px 0 20px;
+}
+a{
+  color: #1d585a;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: darkblue
+}
+.copyright{
+  font-size: 0.8rem;
+  margin-top: 2rem;
+}
+              
